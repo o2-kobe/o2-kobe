@@ -1,4 +1,4 @@
-###👋 Hey there! I'm Laud Tetteh
+**👋 Hey there! I'm Laud Tetteh, a fullstack software developer**
 
 🔭 Currently working on an **Inventory Management System using React,Typescript and Supabase**
 
