@@ -4,7 +4,7 @@
 👨🏻‍💻 About Me
 ---
 
-📱 Specializing in modern web development and application design — crafting clean, efficient, and scalable solutions with React, TypeScript, and Node.js. <br />
+📱 Specializing in modern web development and application design <br />
 🌱 Currently exploring software architecture, design patterns, and best practices for building maintainable full-stack systems
 
 ## 🌐 Socials:
