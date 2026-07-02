@@ -6,7 +6,7 @@ A results-driven **Full-Stack Developer** focused on building clean, maintainabl
 
 ### 👨🏻‍💻 About Me
 * 🚀 **Current Focus:** Deep-diving into robust backend architecture using **NestJS**, task queues, and advanced caching strategies.
-* 🌱 **Continuous Learning:** Exploring software design patterns, DevOps pipelines, and enterprise-grade full-stack systems.
+* 🌱 **Continuous Learning:** Exploring software design patterns and enterprise-grade full-stack systems.
 * 💼 **Open to Opportunities:** Actively looking for software engineering roles where I can contribute to production code, solve complex problems, and grow alongside a talented team.
 
 ---
@@ -35,10 +35,8 @@ A results-driven **Full-Stack Developer** focused on building clean, maintainabl
 
 ### 📊 GitHub Stats
 
-*(Be sure to replace YOUR_GITHUB_USERNAME in the URLs below with your exact GitHub username to activate the stats!)*
-
 <p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=o2-kobe&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=o2-kobe&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages Stats" />
 </p>
