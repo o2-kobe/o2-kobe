@@ -38,5 +38,5 @@ A results-driven **Full-Stack Developer** focused on building clean, maintainabl
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=o2-kobe&theme=dark&hide_border=false" alt="GitHub Streak Stats" />
   <br />
- <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=o2-kobe&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages Stats" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=o2-kobe&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages Stats" />
 </p>
